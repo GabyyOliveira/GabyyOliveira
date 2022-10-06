@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Gabriela Oliveira
 
-> Tenho 18 anos e atualmente sou estudante de Desenvolvimento Web Full Stack. 
+> Tenho 19 anos e sou Desenvolvedora Web Full Stack
 
 ----
 
