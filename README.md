@@ -68,9 +68,10 @@
   Atualmente trabalho na TOTVS IP Campinas
 </p>
 
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
+<div align="left">
+ <p>🦄 Linguagens: </p>
+ <a href='	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'></a>
+</div>
 
 <p align="left">
   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
