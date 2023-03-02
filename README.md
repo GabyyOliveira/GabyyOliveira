@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabyyOliveira&hide=html&layout=compact&theme=dracula"/>   
 </div>
 ##
-  div  align="center"> 
+  <div  align="center"> 
   <p align="center">
    📌 Contato:
   </p>
