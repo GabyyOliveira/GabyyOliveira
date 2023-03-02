@@ -55,6 +55,8 @@
    <a href="https://nodejs.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    </a>
+   
+    ![Snake animation](https://github.com/GabyyOliveira/GabyyOliveira/blob/output/github-contribution-grid-snake.svg)
 <!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -72,4 +74,4 @@
 
 [![GabyyOliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyyOliveira&hide=html&layout=compact&theme=tokyonight)](https://github.com/GabyyOliveira/)
 
- ![Snake animation](https://github.com/GabyyOliveira/GabyyOliveira/blob/output/github-contribution-grid-snake.svg) -->
+ -->
