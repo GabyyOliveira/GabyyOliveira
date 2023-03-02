@@ -69,7 +69,7 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+<!-- ## ⭐ Informações sobre minha conta GitHub -->
 <!-- [![card](https://github-readme-stats.vercel.app/api?username=GabyyOliveira&theme=tokyonight&show_icons=true)](https://github.com/GabyyOliveira/)
 
 [![GabyyOliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyyOliveira&hide=html&layout=compact&theme=tokyonight)](https://github.com/GabyyOliveira/) -->
