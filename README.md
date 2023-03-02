@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Gabriela Oliveira , sou Desenvolvedora Web Full Stack
 
-## ⭐ Informações sobre minha conta 
+⭐ Informações sobre minha conta 
 ----
 <div align="center">
   <a href="https://github.com/GabyyOliveira">
