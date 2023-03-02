@@ -59,7 +59,7 @@
 <!--    <p align='center'>
     Commits 🗳️
    </p> -->
-![Snake animation](https://github.com/GabyyOliveira/GabyyOliveira/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/GabyyOliveira/GabyyOliveira/blob/output/github-contribution-grid-snake.svg) --> -->
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
