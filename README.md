@@ -70,7 +70,7 @@
 
 <div align="left">
  <p>🦄 Linguagens: </p>
- <img src='	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
+![image](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
 
 <p align="left">
