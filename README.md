@@ -64,8 +64,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Meu nome é Gabriela, tenho 19 anos e sou <strong>Desenvolvedora web full stack junior </strong>.<br>
+  Atualmente trabalho na TOTVS IP Campinas
 </p>
 
 <p align="left">
@@ -81,10 +81,10 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href= "mailto:gabyy.oliveira33@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gabriela-oliveira-7a5155198/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="#" alt="WhatsApp">
