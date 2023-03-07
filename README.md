@@ -56,9 +56,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    </a>
    
-  <p align='center'>
+<!--   <p align='center'>
     Commits 🗳️
-   </p> 
+   </p>  -->
  ![Snake animation](https://github.com/GabyyOliveira/GabyyOliveira/blob/output/github-contribution-grid-snake.svg) 
 
 
